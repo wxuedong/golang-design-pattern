@@ -14,7 +14,7 @@
 
 把这 6 个原则的首字母（里氏替换原则和迪米特法则的首字母重复，只取一个）联合起来就是：SOLID（稳定的），其代表的含义也就是把这 6 个原则结合使用的好处：建立稳定、灵活、健壮的设计
 
-|  原则  | 描述  |  原始  |
+|  原则  | 描述  |  表达式  |
 | ----  |----   | ----   |
 |SRP单一职责原则 |一个类或者一个函数只负责一个功能或者职责，实现高内聚、低耦合的基础  |There should never be more than one reason for a class to change |
 |OCP开闭原则 |开闭原则并不是完全拒绝修改，而是以最小力度的修改完成新功能的开发，具备扩展意识、抽象意识、封装意识 |Software entities (classes, modules, functions) should be open for extension but closed for modification |
