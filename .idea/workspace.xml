@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="974f33a5-02f0-40cb-8648-15fa9f38ae07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_singleton/singleton_double_check.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_singleton/singleton_hungry.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_singleton/singleton.go" beforeDir="false" afterPath="$PROJECT_DIR$/01_singleton/singleton_lazy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_singleton/singleton_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/01_singleton/singleton_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_singleton/READEME.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_singleton/READEME.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,26 +82,26 @@
       <screen x="1440" y="-406" width="2560" height="1440" />
     </state>
     <state width="474" height="466" key="DebuggerActiveHint/0.0.1440.900/1440.-406.2560.1440@1440.-406.2560.1440" timestamp="1624863668044" />
-    <state width="2518" height="414" key="GridCell.Tab.0.bottom" timestamp="1625057606868">
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1625057808045">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="2518" height="508" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-406.2560.1440@1440.-406.2560.1440" timestamp="1624863616479" />
-    <state width="2518" height="414" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1625057606868" />
-    <state width="2518" height="414" key="GridCell.Tab.0.center" timestamp="1625057606867">
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1625057808045" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1625057808042">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="2518" height="508" key="GridCell.Tab.0.center/0.0.1440.900/1440.-406.2560.1440@1440.-406.2560.1440" timestamp="1624863616477" />
-    <state width="2518" height="414" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1625057606867" />
-    <state width="2518" height="414" key="GridCell.Tab.0.left" timestamp="1625057606866">
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1625057808042" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1625057808041">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="2518" height="508" key="GridCell.Tab.0.left/0.0.1440.900/1440.-406.2560.1440@1440.-406.2560.1440" timestamp="1624863616475" />
-    <state width="2518" height="414" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1625057606866" />
-    <state width="2518" height="414" key="GridCell.Tab.0.right" timestamp="1625057606868">
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1625057808041" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1625057808043">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="2518" height="508" key="GridCell.Tab.0.right/0.0.1440.900/1440.-406.2560.1440@1440.-406.2560.1440" timestamp="1624863616478" />
-    <state width="2518" height="414" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1625057606868" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1625057808043" />
     <state width="1398" height="508" key="GridCell.Tab.1.bottom" timestamp="1624880426265">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
