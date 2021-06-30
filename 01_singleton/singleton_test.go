@@ -1,6 +1,14 @@
 /**
   @Author:wxuedong
-  @Date:2021/6/29
+  @Date:2021/6/30
   @Note:
 **/
-package _1_singleton
+package singleton
+
+import (
+	"testing"
+)
+
+func TestGetInstance(t *testing.T) {
+
+}
