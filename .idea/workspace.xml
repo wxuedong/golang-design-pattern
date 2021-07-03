@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="974f33a5-02f0-40cb-8648-15fa9f38ae07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02_factory/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_factory/method/factory_method.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_factory/simple/simple_factory.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_factory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_factory/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
       <recent name="$PROJECT_DIR$/02_factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestGetInstance in singleton_test.go">
+  <component name="RunManager" selected="Go Test.TestNewIRuleConfigParser in simple_factory_test.go">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang-design-pattern" />
       <working_directory value="$PROJECT_DIR$" />
@@ -71,8 +73,19 @@
       <pattern value="^\QTestGetInstance\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestNewIRuleConfigParser in simple_factory_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-design-pattern" />
+      <working_directory value="$PROJECT_DIR$/02_factory" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/02_factory/simple_factory_test.go" />
+      <pattern value="^\QTestNewIRuleConfigParser\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestNewIRuleConfigParser in simple_factory_test.go" />
         <item itemvalue="Go Test.TestGetInstance in singleton_test.go" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
