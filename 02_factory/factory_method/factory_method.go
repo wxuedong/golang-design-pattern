@@ -3,7 +3,7 @@
   @Date:2021/7/3
   @Note:
 **/
-package method
+package factory_method
 
 // IRuleConfigParser IRuleConfigParser
 type IRuleConfigParser interface {

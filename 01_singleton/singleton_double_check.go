@@ -15,7 +15,7 @@ var instance3 *example3
 var once sync.Once
 
 func GetInstance3() *example3 {
-	//The Do method of sync.Once can realize that the callback is only run once during the running of the program
+	//The Do factory_method of sync.Once can realize that the callback is only run once during the running of the program
 	//Atom
 	once.Do(func() {
 		instance3 = new(example3)

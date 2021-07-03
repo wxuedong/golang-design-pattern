@@ -3,7 +3,7 @@
   @Date:2021/7/3
   @Note:
 **/
-package simple
+package simple_factory
 
 // IRuleConfigParser IRuleConfigParser
 type IRuleConfigParser interface {
