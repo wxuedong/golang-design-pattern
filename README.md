@@ -30,4 +30,4 @@
 | 创建型	  |[单例模式(Singleton Design Pattern)](https://github.com/wxuedong/golang-design-pattern/tree/main/01_singleton)  | 是  |    
 | 创建型	  |[工厂模式(Factory Design Pattern)](https://github.com/wxuedong/golang-design-pattern/tree/main/02_factory)  | 是  |    
 | 创建型	  |[建造者模式(Builder Design Pattern)](https://github.com/wxuedong/golang-design-pattern/tree/main/03_builder)  | 是  |    
-| 创建型	  |[原型模式(Prototype Design Pattern)](https://github.com/wxuedong/golang-design-pattern/tree/main/04_prototype)  | 是  | 
+| 创建型	  |[原型模式(Prototype Design Pattern)](https://github.com/wxuedong/golang-design-pattern/tree/main/04_prototype)  | 否  | 
