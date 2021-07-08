@@ -24,3 +24,10 @@
 |DIP依赖倒置原则 |高层模块不应该直接依赖于底层模块的具体实现，而应该依赖于底层的抽象。(面向接口编程)|High level modules should not depend upon low level modules. Both should depend upon abstractions. Abstractions should not depend upon details. Details should depend upon abstractions |
 
 ### 设计模式
+
+|  类型	  | 设计模式	 |  常用	  | 
+| ----  |----   | ----   | 
+| 创建型	  |单例模式(Singleton Design Pattern)   | 是  |    
+| 创建型	  |工厂模式(Factory Design Pattern)   | 是   |    
+| 创建型	  |建造者模式(Builder Design Pattern)   | 是   |    
+| 创建型	  |原型模式(Prototype Design Pattern)   | 否  |    
