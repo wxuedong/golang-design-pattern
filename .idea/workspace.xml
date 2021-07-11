@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="974f33a5-02f0-40cb-8648-15fa9f38ae07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_proxy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_singleton/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_singleton/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_prototype" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/05_proxy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05_proxy" />
       <recent name="$PROJECT_DIR$/04_prototype" />
       <recent name="$PROJECT_DIR$/03_builder" />
       <recent name="$PROJECT_DIR$/02_factory" />
