@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="974f33a5-02f0-40cb-8648-15fa9f38ae07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/05_proxy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/05_proxy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_bridge/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/05_proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/06_bridge" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,15 +51,16 @@
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02_factory/simple" />
+      <recent name="$PROJECT_DIR$/02_factory/method" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/06_bridge" />
       <recent name="$PROJECT_DIR$/05_proxy" />
       <recent name="$PROJECT_DIR$/04_prototype" />
       <recent name="$PROJECT_DIR$/03_builder" />
       <recent name="$PROJECT_DIR$/02_factory" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/02_factory/simple" />
-      <recent name="$PROJECT_DIR$/02_factory/method" />
     </key>
   </component>
   <component name="RunManager" selected="Go Test.TestNewIRuleConfigParser in simple_factory_test.go">
